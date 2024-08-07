@@ -27,7 +27,7 @@ This project is a comprehensive Bank Account Simulation developed using Python a
 ## Installation and Setup
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/bank-account-simulation.git
+    git clone https://github.com/Mukesh-Kumar-Madhur/bank-account-simulation.git
     cd bank-account-simulation
     ```
 
@@ -43,9 +43,6 @@ This project is a comprehensive Bank Account Simulation developed using Python a
 
 ## Usage
 Upon running the application, users are greeted with a login screen. New users can create an account, while existing users can log in with their credentials. Once logged in, users can view their account details, perform transactions, and update their profile information.
-
-## Screenshots
-*Include some screenshots of the application here to give users a visual overview.*
 
 ## Contributions
 Contributions are welcome! Please fork the repository and submit pull requests for any improvements or bug fixes.
